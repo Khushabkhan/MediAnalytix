@@ -1,0 +1,10 @@
+torch
+torchvision
+numpy<2.0
+pandas
+opencv-python-headless
+scipy<1.13
+albumentations>=1.4.0
+gradio
+grad-cam
+gdown
